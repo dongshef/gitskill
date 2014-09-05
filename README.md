@@ -4,4 +4,3 @@ gitskill
 
 git skill
 
-master
