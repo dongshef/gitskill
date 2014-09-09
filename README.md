@@ -14,3 +14,6 @@ master
 
 dev
 dev
+
+feature
+feature
